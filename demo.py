@@ -1,3 +1,4 @@
 def add(a, b):
-  # make it work
-  pass
+  c = a * 2
+  return (c)
+  
